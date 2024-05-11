@@ -28,7 +28,7 @@ This project explores various aspects of Amplitude Modulation (AM) in communicat
 1. **MATLAB Installation**: Ensure MATLAB is installed on your system.
 2. **Clone Repository**: Clone this repository to your local machine.
     ```
-    git clone https://github.com/your_username/am-modulation-project.git
+    git clone https://github.com/adel-movahedian/AM-ModulationProject
     ```
 3. **Navigate to Directory**: Change directory to the project folder.
     ```
